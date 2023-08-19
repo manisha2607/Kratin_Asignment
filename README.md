@@ -42,15 +42,20 @@
 
 # APIs Calling By Postman's Images
  1] For Register HTTP-RWQUEST->POST URL: http://localhost:9595/api/v1/user/register
- ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/aea38590-0e0a-4ec0-8b3e-40ae1413c0f2)
+ ![api resgister](https://github.com/manisha2607/Kratin_Asignment/assets/126694907/e82e0070-2ea7-4565-9962-67cc7dce18a4)
+
  2] For Log-In HTTP REQUEST->POST URL: http://localhost:9595/api/v1/user/login
- ![Screenshot 2023-07-31 103425](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/6ada05d2-4a8f-4deb-8bf0-1df857985912)
+![api login](https://github.com/manisha2607/Kratin_Asignment/assets/126694907/d9776b61-e8e0-4820-9288-1ab6ad84f152)
+
  3] For Adding Activities HTTP REQUEST-PUT URL: http://localhost:9595/api/v1/user/activity
- ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/6e894872-a962-4f7b-8c9e-204d7a0445b8)
+![api activity](https://github.com/manisha2607/Kratin_Asignment/assets/126694907/b269507d-e74a-47fe-b7b7-755bfcf219a5)
+
  4] For Adding Nutritions HTTP REQUEST-PUT URL: http://localhost:9595/api/v1/user/nutrition
- ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/31f3eb30-a0c4-4d63-8785-edd76c0619e6)
+![api  nutritation](https://github.com/manisha2607/Kratin_Asignment/assets/126694907/eb841137-a8b2-4548-a641-81316e464f16)
+
  5] For Adding Vitals HTTP REQUEST-PUT URL: http://localhost:9595/api/v1/user/vitals
- ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/1d71551d-3b1a-45b5-a255-98b50546553a)
+![api vitals](https://github.com/manisha2607/Kratin_Asignment/assets/126694907/abc32913-9b70-403c-b3bf-ad4b21a9f10a)
+
 
 
 

@@ -24,16 +24,21 @@
   URL--
 # Front-Ebd Views
  1] Home Page
- ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/6dcc24e0-dda8-4a68-8ed3-c84f6e74bdb7)
+ ![home](https://github.com/manisha2607/Kratin_Asignment/assets/126694907/007ad3eb-791b-4d1e-b3ae-56554c0d6b70)
+
  2] Register-Page
- ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/b0896e24-aa06-45eb-90ba-4b17e5b8e815)
+ ![register](https://github.com/manisha2607/Kratin_Asignment/assets/126694907/e0ac66f9-1ef1-4bdf-bfe9-7848065fd515)
+
  3] Sign-In Page
- ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/b36b56e3-ccbc-41d6-a7ab-4304bbd6f2e3)
+![login](https://github.com/manisha2607/Kratin_Asignment/assets/126694907/08da5a0e-4be8-4e44-b4dd-8a8bbd6d800f)
+
  4] After sign-in
- ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/07191191-4e05-4652-8608-a78ef9da3187)
+![aftersignup](https://github.com/manisha2607/Kratin_Asignment/assets/126694907/b46ca57c-9f5f-4237-bd4e-0fc28617920c)
+
 
  5] Profile Page
- ![image](https://github.com/vaidyahimanshu502/health_management_webapp/assets/76218691/8186a22f-3349-46e9-9212-4676a6bccbb8)
+![profile](https://github.com/manisha2607/Kratin_Asignment/assets/126694907/4f118158-fe58-486b-a2b4-22cf9e4205cd)
+
 
 # APIs Calling By Postman's Images
  1] For Register HTTP-RWQUEST->POST URL: http://localhost:9595/api/v1/user/register

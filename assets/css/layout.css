@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+#main-container {
+  min-height: 65vh;
+  
+  background-image: url('/images/background.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  
+}
+
+#main-container img {
+  opacity: 0.5;
+}

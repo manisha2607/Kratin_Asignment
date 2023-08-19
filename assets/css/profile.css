@@ -1,0 +1,10 @@
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+div ul li {
+    list-style-type: none;
+}
